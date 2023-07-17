@@ -1,0 +1,7 @@
+name = "oauth-test"
+main = "src/index.ts"
+compatibility_date = "2023-07-16"
+kv_namespaces = [{ binding = "STORE_KV", id = "<id>", preview_id = "<preview_id>" }]
+
+[vars]
+GITHUB_CLIENT_ID = "<github_client_id>"
